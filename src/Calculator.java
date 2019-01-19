@@ -1,5 +1,5 @@
 public class Calculator {
-    // looks good 
+   
     public static double add(double num1, double num2){
         return  num1+num2;
     }
@@ -12,7 +12,7 @@ public class Calculator {
     public static double division(double num1, double num2){
      double result = num1/ num2;
         return result;
-       // Best way of solving  
+      
      }
     public static String month(String month1){
     return month1;
