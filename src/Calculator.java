@@ -14,4 +14,7 @@ public class Calculator {
         return result;
        // Best way of solving  
      }
+    public static String month(String month1){
+    return month1;
+    }
 }
